@@ -1,0 +1,14 @@
+.gradle/
+.idea/
+build/
+out/
+**/build/
+**/out/
+*.class
+
+# server runtime state
+File Server/task/src/server/index.txt
+File Server/task/src/server/index.txt.tmp
+File Server/task/src/server/data/*
+File Server/task/src/client/data/*
+!**/data/.gitkeep

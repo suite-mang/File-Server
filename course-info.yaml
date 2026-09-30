@@ -1,0 +1,19 @@
+type: hyperskill
+title: File Server
+language: English
+summary: "<p>It's so easy to lose your precious data — unless you store it on a server.\
+  \ Besides, file servers allow you to access your files remotely, no matter where\
+  \ you are. In this project, you will create your own file server, even though a\
+  \ simple one.<strong> </strong>You will practice concepts frequently tested in technical\
+  \ interviews at top tech companies.</p>"
+programming_language: Java
+programming_language_version: 11
+content:
+  - File Server
+additional_files:
+  - name: build.gradle
+    visible: true
+  - name: settings.gradle
+    visible: true
+mode: Study
+yaml_version: 5

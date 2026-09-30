@@ -1,0 +1,11 @@
+type: edu
+files:
+  - name: src/server/Main.java
+    visible: true
+    learner_created: false
+  - name: test/FileServerTest.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/52/stages/283/implement#comment
+status: Solved
+record: -1

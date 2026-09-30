@@ -1,0 +1,17 @@
+type: edu
+files:
+  - name: src/server/Main.java
+    visible: true
+    learner_created: false
+  - name: test/FileServerTest.java
+    visible: true
+    learner_created: false
+  - name: src/client/Main.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/52/stages/284/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 15 Sep 2026 16:58:13 UTC"
+record: -1
